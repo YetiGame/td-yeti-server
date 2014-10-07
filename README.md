@@ -1,4 +1,4 @@
 td-yeti-server
 ==============
 
-TD Yeti Server
+Default init TD Yeti Server
